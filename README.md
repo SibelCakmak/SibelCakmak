@@ -1,4 +1,5 @@
-### Hi there 👋
+👋 Hi, I’m Dr. Sreenivas Bhattiprolu (Sreeni)
+👀 I’m interested in scientific image analysis and data analysis using python
 
 👋 Hi, I’m Dr. Sreenivas Bhattiprolu (Sreeni)
 
